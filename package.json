@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhihmi/Webpack-Boilerplate-Custom.git"
+    "url": "https://github.com/mhihmi/Webpack-Boilerplate"
   },
   "keywords": [
     "Webpack",
@@ -20,9 +20,9 @@
   "author": "Mehdi HILMI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mhihmi/Webpack-Boilerplate-Custom/issues"
+    "url": "https://github.com/mhihmi/Webpack-Boilerplate/issues"
   },
-  "homepage": "https://github.com/mhihmi/Webpack-Boilerplate-Custom#readme",
+  "homepage": "https://github.com/mhihmi/Webpack-Boilerplate#readme",
   "devDependencies": {
     "@babel/core": "^7.16.10",
     "@babel/preset-env": "^7.16.11",
