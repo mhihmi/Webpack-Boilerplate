@@ -1,6 +1,8 @@
 # 📦 Webpack Boilerplate
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](https://hits.dwyl.com/mhihmi/Webpack-Boilerplate.svg?style=flat&show=unique)](# "Unique view count")
+[![HitCount](https://hits.dwyl.com/mhihmi/Webpack-Boilerplate.svg?style=flat)](# "All view count")
 
 Simple Webpack boilerplate with Sass, Babel, autoprefixer, postCss, and french comments to explain what's going on.
 At this moment, I didn't include image-minimizer-webpack-plugin, because or vulnerabilities.
